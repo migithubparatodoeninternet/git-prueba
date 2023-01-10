@@ -2,4 +2,4 @@
 
 $person = "this is the person";
 
-echo $person;
+var_dump($person);
